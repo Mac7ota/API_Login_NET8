@@ -1,0 +1,17 @@
+C:\Users\mauro\Source\Repos\Autenticacao\Contexto\bin\Debug\net8.0\Contexto.deps.json
+C:\Users\mauro\Source\Repos\Autenticacao\Contexto\bin\Debug\net8.0\Contexto.dll
+C:\Users\mauro\Source\Repos\Autenticacao\Contexto\bin\Debug\net8.0\Contexto.pdb
+C:\Users\mauro\Source\Repos\Autenticacao\Contexto\bin\Debug\net8.0\Dominio.dll
+C:\Users\mauro\Source\Repos\Autenticacao\Contexto\bin\Debug\net8.0\DTOs.dll
+C:\Users\mauro\Source\Repos\Autenticacao\Contexto\bin\Debug\net8.0\Dominio.pdb
+C:\Users\mauro\Source\Repos\Autenticacao\Contexto\bin\Debug\net8.0\DTOs.pdb
+C:\Users\mauro\Source\Repos\Autenticacao\Contexto\obj\Debug\net8.0\Contexto.csproj.AssemblyReference.cache
+C:\Users\mauro\Source\Repos\Autenticacao\Contexto\obj\Debug\net8.0\Contexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\Source\Repos\Autenticacao\Contexto\obj\Debug\net8.0\Contexto.AssemblyInfoInputs.cache
+C:\Users\mauro\Source\Repos\Autenticacao\Contexto\obj\Debug\net8.0\Contexto.AssemblyInfo.cs
+C:\Users\mauro\Source\Repos\Autenticacao\Contexto\obj\Debug\net8.0\Contexto.csproj.CoreCompileInputs.cache
+C:\Users\mauro\Source\Repos\Autenticacao\Contexto\obj\Debug\net8.0\Contexto.csproj.Up2Date
+C:\Users\mauro\Source\Repos\Autenticacao\Contexto\obj\Debug\net8.0\Contexto.dll
+C:\Users\mauro\Source\Repos\Autenticacao\Contexto\obj\Debug\net8.0\refint\Contexto.dll
+C:\Users\mauro\Source\Repos\Autenticacao\Contexto\obj\Debug\net8.0\Contexto.pdb
+C:\Users\mauro\Source\Repos\Autenticacao\Contexto\obj\Debug\net8.0\ref\Contexto.dll

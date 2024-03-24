@@ -1,0 +1,11 @@
+C:\Users\mauro\Source\Repos\Autenticacao\DTOs\bin\Debug\net8.0\DTOs.deps.json
+C:\Users\mauro\Source\Repos\Autenticacao\DTOs\bin\Debug\net8.0\DTOs.dll
+C:\Users\mauro\Source\Repos\Autenticacao\DTOs\bin\Debug\net8.0\DTOs.pdb
+C:\Users\mauro\Source\Repos\Autenticacao\DTOs\obj\Debug\net8.0\DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauro\Source\Repos\Autenticacao\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfoInputs.cache
+C:\Users\mauro\Source\Repos\Autenticacao\DTOs\obj\Debug\net8.0\DTOs.AssemblyInfo.cs
+C:\Users\mauro\Source\Repos\Autenticacao\DTOs\obj\Debug\net8.0\DTOs.csproj.CoreCompileInputs.cache
+C:\Users\mauro\Source\Repos\Autenticacao\DTOs\obj\Debug\net8.0\DTOs.dll
+C:\Users\mauro\Source\Repos\Autenticacao\DTOs\obj\Debug\net8.0\refint\DTOs.dll
+C:\Users\mauro\Source\Repos\Autenticacao\DTOs\obj\Debug\net8.0\DTOs.pdb
+C:\Users\mauro\Source\Repos\Autenticacao\DTOs\obj\Debug\net8.0\ref\DTOs.dll
